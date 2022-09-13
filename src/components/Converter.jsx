@@ -20,7 +20,7 @@ export default function Converter() {
 
   return (
     <div className='converter' style={{backgroundColor: color.hex}}>
-      <input type="text" onChange={handlerInput}/>
+      <input type="text" placeholder='Введите hex' onChange={handlerInput}/>
       <p className='converter-rgb'>{color.rgb}</p>
     </div>
   )
