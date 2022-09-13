@@ -12,7 +12,7 @@ export default function Converter() {
       setColor(prevColor => ({...prevColor, hex: ev.target.value}));
       setColor(prevColor => ({...prevColor, rgb: hexRgb(ev.target.value)}));
     } else {
-      setColor(prevColor => ({...prevColor, hex: '#009eff'}));
+      setColor(prevColor => ({...prevColor, hex: '#ff0000'}));
       setColor(prevColor => ({...prevColor, rgb: 'Ошибка!'}));
     }
   }
