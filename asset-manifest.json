@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-forms-hex/static/css/main.ea81b4d6.css",
+    "main.js": "/ra-forms-hex/static/js/main.63f982f3.js",
+    "index.html": "/ra-forms-hex/index.html",
+    "main.ea81b4d6.css.map": "/ra-forms-hex/static/css/main.ea81b4d6.css.map",
+    "main.63f982f3.js.map": "/ra-forms-hex/static/js/main.63f982f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea81b4d6.css",
+    "static/js/main.63f982f3.js"
+  ]
+}
